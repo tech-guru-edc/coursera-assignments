@@ -20,13 +20,13 @@ body {
 
 #box {
 	background-color: #b8b6b0;
-	border: 3px solid black;
+	border: 1px solid black;
 	margin: 0;
 }
 
 p {
-  border-left: 3px solid black;
-  border-bottom: 3px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
   border-top: 0;
   border-right: 0;
   margin: 0;
