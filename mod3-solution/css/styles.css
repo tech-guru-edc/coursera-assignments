@@ -1,0 +1,80 @@
+body {
+	font-style: 16px;
+	color: black;
+	background-color: white;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/** HEADER **/
+#header-nav {
+	background-color: #c4c2bb;
+	border-radius: 0;
+	border: 0;
+	margin-bottom: 0;
+}
+
+.navbar-brand h1 {
+	color: black;
+}
+
+#nav-list {
+  margin-top: 0;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+  background-color: #aecfd1;
+  border: 1px solid black;
+  font-size: 1.5em;
+  padding: 15px;
+
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+.navbar-brand {
+    padding-top: 15px;
+    height: 50px;
+  }
+  .navbar-brand h1 { /* Restaurant name */
+    padding-top: 0;
+    margin-top: -10px;
+    font-size: 2em;
+    text-align: left;
+    float:left; /* 1vw = 1% of viewport width */
+  }
+
+.navbar-header {
+	padding: 20px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+.navbar-header button.navbar-toggle {
+	float: right;
+}
+
+h2 {
+	text-align: center;
+}
+
+#box {
+	background-color: #c4c2bb;
+	margin: 10px 20px;
+	padding: 15px;
+}
+
+p {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+section {
+	text-align: justify;
+}
